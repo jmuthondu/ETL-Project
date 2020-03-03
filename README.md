@@ -24,5 +24,7 @@ We transformed our data from CSV files to Pandas DataFrames using jupyter notebo
 ## Loading Data
 We exported the pandas DataFrame in different formats for future use.
    
-   - Saved 
+   - Saved data as a CSV file 
+   - Saved data as a JSON file
+   - Saved data as Postgres table in ETL_Project dataset.We can have other tables in Postgres like Age, Country and Cause to normalize the data if needed.
    
