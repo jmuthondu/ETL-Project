@@ -16,5 +16,5 @@ In this project we tried to make a Dataset to see whether there is a correlation
  We exctracted our data from the following sources:
  
    - Gross Domestic Product for the whole world from 1960:
-   - [https://data.worldbank.org/org/indicator/ny.gdp.mktp.cd?view=map]
+   - (https://data.worldbank.org/org/indicator/ny.gdp.mktp.cd?view=map)
    
