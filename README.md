@@ -12,3 +12,7 @@ In this project we tried to make a Dataset to see whether there is a correlation
   - Which type of cancer is more common in a certain country?
   - How has the GDP rate been changing over the past 16 years from the year 2000 to 2016 per country?
   
+## Extraction
+ We exctracted our data from the following sources:
+    
+    - Gross Domestic Product for the for 
