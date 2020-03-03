@@ -18,3 +18,6 @@ In this project we tried to make a Dataset to see whether there is a correlation
    - Gross Domestic Product for the whole world from 1960:
    - https://data.worldbank.org/org/indicator/ny.gdp.mktp.cd?view=map
    
+## Transformation
+We transformed our data from CSV files to Pandas DataFrames using jupyter notebook and did data claeaning of extracted data.
+   
