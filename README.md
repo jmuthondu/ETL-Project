@@ -20,4 +20,9 @@ In this project we tried to make a Dataset to see whether there is a correlation
    
 ## Transformation
 We transformed our data from CSV files to Pandas DataFrames using jupyter notebook and did data claeaning of extracted data.
+
+## Loading Data
+We exported the pandas DataFrame in different formats for future use.
+   
+   - Saved 
    
