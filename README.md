@@ -9,3 +9,4 @@ Strictly defined,GDP is the sum of the market values, oor prices, of all final g
 In this project we tried to make a Dataset to see whether there is a correlation between cancer death rates and the GDP.I n less developed countries or regions rather than the number of deaths per year was very huge which mage us come with the following questions:
 
   - Is there any relation between cancer death rate and the GDP for all the countries around the world?
+  - Which type of cancer is more common in a certain country?
