@@ -5,3 +5,5 @@ We were interested in cancer mortality rate among different nations. Cancer is a
 
 The Gross Domestic Product measures the value of economic activity within a country.
 Strictly defined,GDP is the sum of the market values, oor prices, of all final goods and services produced in an economy during a period of time.
+
+In this project we tried to make a Dataset
