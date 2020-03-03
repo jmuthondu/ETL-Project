@@ -28,4 +28,4 @@ We exported the pandas DataFrame in different formats for future use.
    - Saved data as a JSON file
    - Saved data as Postgres table in ETL_Project dataset.We can have other tables in Postgres like Age, Country and Cause to normalize the data if needed.
 
-_Prepared by Joyce Muthondu and Behnam Firoozfard
+_Prepared by Joyce Muthondu and Behnam Firoozfard 
