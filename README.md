@@ -10,4 +10,5 @@ In this project we tried to make a Dataset to see whether there is a correlation
 
   - Is there any relation between cancer death rate and the GDP for all the countries around the world?
   - Which type of cancer is more common in a certain country?
-  - How has the GDP rate been changing over the past 16 years
+  - How has the GDP rate been changing over the past 16 years from the year 2000 to 2016 per country?
+  
